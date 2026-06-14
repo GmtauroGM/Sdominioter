@@ -6,7 +6,7 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/GmtauroGM/Sdominioter```
 
 ```bash $ cd ctfr```
 
